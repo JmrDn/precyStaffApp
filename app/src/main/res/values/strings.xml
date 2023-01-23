@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Staff_PrecyApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="hello">Hello</string>
+    <string name="staff_name">Staff Name</string>
+    <string name="upcoming_eventss">Here\'s our upcoming events</string>
+    <string name="name_of_client">Name of Client</string>
+    <string name="when">When</string>
+    <string name="where">Where</string>
+    <string name="venue">Venue</string>
+    <string name="date">date</string>
+</resources>

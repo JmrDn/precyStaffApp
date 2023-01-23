@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "320518962137",
+    "project_id": "precy-9a741",
+    "storage_bucket": "precy-9a741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320518962137:android:3b944bd06ab41b42f937c8",
+        "android_client_info": {
+          "package_name": "com.example.staff_precyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320518962137-4hroj5as0klum5qjmi3ln3arghug1l28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.staff_precyapp",
+            "certificate_hash": "437072ab7ac50dfa4cff492b32d6825340f616c5"
+          }
+        },
+        {
+          "client_id": "320518962137-9jmm94vtl9u1v8gmu4v125mo2tc4gr28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM3TxU0oYLxRlG76DtoWTSzF87gZreov0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320518962137-9jmm94vtl9u1v8gmu4v125mo2tc4gr28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320518962137:android:6db74af63ee80586f937c8",
+        "android_client_info": {
+          "package_name": "com.firetera.percyv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320518962137-p72lulin2nqbggeihqra8kmbm0ttlk2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firetera.percyv2",
+            "certificate_hash": "437072ab7ac50dfa4cff492b32d6825340f616c5"
+          }
+        },
+        {
+          "client_id": "320518962137-9jmm94vtl9u1v8gmu4v125mo2tc4gr28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM3TxU0oYLxRlG76DtoWTSzF87gZreov0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320518962137-9jmm94vtl9u1v8gmu4v125mo2tc4gr28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320518962137:android:2d3dacdc13dfb949f937c8",
+        "android_client_info": {
+          "package_name": "com.precy.admin_precyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320518962137-9jmm94vtl9u1v8gmu4v125mo2tc4gr28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM3TxU0oYLxRlG76DtoWTSzF87gZreov0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320518962137-9jmm94vtl9u1v8gmu4v125mo2tc4gr28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
